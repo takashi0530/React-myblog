@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 48px 0;
+}
+
+.siteName {
+    font-style: 20px;
+    font-weight: bold;
+    margin-right: 32px;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+}
+
+.navItem {
+    margin-right: 20px;
+    font-weight: bold;
+}
+
+.social {
+    margin-right: auto;
+}
+
+
